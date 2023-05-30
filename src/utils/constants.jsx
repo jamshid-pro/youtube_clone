@@ -28,7 +28,6 @@ export const categories = [
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
   { name: 'Sport', icon: <FitnessCenterIcon />, },
-  { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
